@@ -1,2 +1,2 @@
-nombre = "Bethania de Jesús"
+nombre = "Bethania"
 print("hola" = nombre)

@@ -1,2 +1,2 @@
-Practicando subir commits a github
+Practicando subir commit a github
 Subiendo un commit
